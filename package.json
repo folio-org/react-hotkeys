@@ -1,5 +1,5 @@
 {
-  "name": "@folio/stripes-react-hotkeys",
+  "name": "@folio/react-hotkeys",
   "version": "1.1.4",
   "description": "A declarative library for handling hotkeys and focus within a React application",
   "main": "index",
